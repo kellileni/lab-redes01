@@ -41,7 +41,11 @@ WAN[Internet /WAN do Provedor]
 
 Router[Roteador Wireless<br>1 Porta WAN<br> 4 Portas LAN]
 
-PC1
+PC1[Notebook 1]
+PC2[Notebook 2]
+PC3[Notebook 3]
+
+Printer[ Impressora de rede ]
 
 
 
