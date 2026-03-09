@@ -61,3 +61,35 @@ Imagem da topologia no Laboratorio
 
 ![]()<img width="618" height="423" alt="image" src="https://github.com/user-attachments/assets/125dcb72-4b3e-46b8-a603-c203ddc9063d" />
 
+---
+
+## 4. Plano de endereço IP
+Rede: 192.168.0.0/24
+
+Geteway: 192.168.0.1
+
+| dispositipo | Tipo de IP | Endereço IP | Observação |
+|-------------|-------------|-------------|-------------|
+| Roteador | Estatico | 192,168.0.1 | IP do reteador |
+| PC1 | Reservado DHCP | 192.168.0.100 | IP Reservado pelo roteador |
+| PC2 | DHCP | Automático | IP Atribuido pelo roteador |
+| PC3 | DHCP | Automático | IP Atribuido pelo roteador |
+
+ **Obersevação**
+
+- A Impressora e um dos notebooks utilizam reserva DHCP
+- O roteador sempre atribui o mesmo endereço IP a esse dispositivos.
+
+---
+
+## 5. Após a Instalação, a rede foi montada fisicamente no laboratório.
+
+Etapas realizadas:
+
+
+## 6. Conclusão
+
+este laboratorio 
+
+
+
