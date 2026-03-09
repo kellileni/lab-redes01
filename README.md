@@ -89,7 +89,13 @@ Etapas realizadas:
 
 ## 6. Conclusão
 
-este laboratorio 
+este laboratorio permitiu compreender o funcionamento de uma rede local simples, incluindo;
 
+- Estrutura de uma rede doméstico ou de pequeno escritório 
+- utilização de roteador com porta WAN e portas LAN
+- Funcionamento do DHCP
+- Comunicação entre dispositivos de rede local
+- utilização de uma impressora de rede
+- Compartilhamento de pastas na rede 
 
 
