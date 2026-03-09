@@ -85,6 +85,8 @@ Geteway: 192.168.0.1
 ## 5. Após a Instalação, a rede foi montada fisicamente no laboratório.
 
 Etapas realizadas:
+![]()<img width="518" height="960" alt="image" src="https://github.com/user-attachments/assets/af79661a-9807-4757-8648-9d1424b37ae6" />
+
 
 
 ## 6. Conclusão
