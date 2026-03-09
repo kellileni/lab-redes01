@@ -59,4 +59,5 @@ Router -->|LAN 4| Printer
 
 Imagem da topologia no Laboratorio 
 
-![]()
+![]()<img width="584" height="343" alt="image" src="https://github.com/user-attachments/assets/0796cf7f-2ffe-4a16-8eb8-73bc775bc133" />
+
